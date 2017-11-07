@@ -1,0 +1,2 @@
+# resource
+statics resource storage
